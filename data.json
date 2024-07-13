@@ -1,0 +1,332 @@
+{
+    "jobs": [
+      {
+        "field": "Information Technology",
+        "companies": [
+          {
+            "name": "Tech Solutions Inc.",
+            "jobs": [
+              {
+                "title": "Software Engineer",
+                "skills": ["Java", "Python", "JavaScript", "SQL"],
+                "experience": "2-5 years",
+                "academics": "Bachelor's in Computer Science or related field",
+                "expected_package": "$80,000 - $110,000"
+              },
+              {
+                "title": "Data Scientist",
+                "skills": ["R", "Python", "Machine Learning", "Big Data"],
+                "experience": "3-7 years",
+                "academics": "Master's or PhD in Computer Science, Statistics, or related field",
+                "expected_package": "$90,000 - $130,000"
+              },
+              {
+                "title": "Cloud Solutions Architect",
+                "skills": ["AWS", "Azure", "Google Cloud", "DevOps"],
+                "experience": "5-10 years",
+                "academics": "Bachelor's or Master's in Computer Science or equivalent",
+                "expected_package": "$120,000 - $150,000"
+              }
+            ]
+          },
+          {
+            "name": "Digital Innovations Ltd.",
+            "jobs": [
+              {
+                "title": "AI/ML Engineer",
+                "skills": ["Python", "TensorFlow", "PyTorch", "Natural Language Processing"],
+                "experience": "3-7 years",
+                "academics": "Bachelor's or Master's or PhD in Artificial Intelligence, Machine Learning, or related field",
+                "expected_package": "$100,000 - $140,000"
+              },
+              {
+                "title": "Cybersecurity Analyst",
+                "skills": ["Network Security", "Penetration Testing", "SIEM Tools"],
+                "experience": "3-5 years",
+                "academics": "Bachelor's in Cybersecurity, Information Technology, or related field",
+                "expected_package": "$80,000 - $110,000"
+              }
+            ]
+          },
+          {
+            "name": "Cloud Innovations Ltd.",
+            "jobs": [
+              {
+                "title": "DevOps Engineer",
+                "skills": ["CI/CD", "Docker", "Kubernetes", "Scripting Languages"],
+                "experience": "3-7 years",
+                "academics": "Bachelor's or Master's in Computer Science or equivalent",
+                "expected_package": "$90,000 - $120,000"
+              },
+              {
+                "title": "Blockchain Developer",
+                "skills": ["Blockchain Platforms (e.g., Ethereum, Hyperledger)", "Smart Contracts"],
+                "experience": "2-5 years",
+                "academics": "Bachelor's in Computer Science, Software Engineering, or related field",
+                "expected_package": "$80,000 - $110,000"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "field": "Finance",
+        "companies": [
+          {
+            "name": "Global Investments Bank",
+            "jobs": [
+              {
+                "title": "Financial Analyst",
+                "skills": ["Financial Modeling", "Investment Analysis", "Excel", "SQL"],
+                "experience": "1-3 years",
+                "academics": "Bachelor's in Finance, Economics, or related field",
+                "expected_package": "$70,000 - $90,000"
+              },
+              {
+                "title": "Investment Banker",
+                "skills": ["Mergers & Acquisitions", "Financial Valuation", "Private Equity"],
+                "experience": "5-10 years",
+                "academics": "Master's in Finance, MBA, or equivalent",
+                "expected_package": "$150,000 - $250,000"
+              }
+            ]
+          },
+          {
+            "name": "Financial Consultancy Group",
+            "jobs": [
+              {
+                "title": "Tax Consultant",
+                "skills": ["Tax Law", "International Tax Planning", "Accounting", "CPA"],
+                "experience": "3-6 years",
+                "academics": "Bachelor's or Master's in Accounting, Taxation, or related field",
+                "expected_package": "$80,000 - $120,000"
+              },
+              {
+                "title": "Risk Manager",
+                "skills": ["Risk Assessment", "Compliance", "Enterprise Risk Management"],
+                "experience": "7-12 years",
+                "academics": "Master's in Risk Management, Finance, or related field",
+                "expected_package": "$120,000 - $180,000"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "field": "Marketing",
+        "companies": [
+          {
+            "name": "Digital Marketing Agency X",
+            "jobs": [
+              {
+                "title": "Digital Marketing Specialist",
+                "skills": ["SEO", "SEM", "Content Marketing", "Social Media Marketing"],
+                "experience": "2-5 years",
+                "academics": "Bachelor's in Marketing, Communications, or related field",
+                "expected_package": "$60,000 - $80,000"
+              },
+              {
+                "title": "Marketing Analytics Manager",
+                "skills": ["Marketing ROI Analysis", "Data Visualization", "Marketing Automation"],
+                "experience": "5-8 years",
+                "academics": "Master's in Marketing Analytics, Business Analytics, or related field",
+                "expected_package": "$90,000 - $120,000"
+              }
+            ]
+          },
+          {
+            "name": "Tech Startup Y",
+            "jobs": [
+              {
+                "title": "Product Marketing Manager",
+                "skills": ["Product Launch", "Go-to-Market Strategy", "Market Research"],
+                "experience": "4-7 years",
+                "academics": "Bachelor's or Master's in Business Administration (MBA preferred)",
+                "expected_package": "$100,000 - $140,000"
+              },
+              {
+                "title": "Brand Strategist",
+                "skills": ["Brand Management", "Campaign Planning", "Brand Positioning"],
+                "experience": "3-6 years",
+                "academics": "Bachelor's in Marketing, Communications, or related field",
+                "expected_package": "$80,000 - $110,000"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "field": "Engineering",
+        "companies": [
+          {
+            "name": "Global Engineering Solutions",
+            "jobs": [
+              {
+                "title": "Mechanical Engineer",
+                "skills": ["CAD", "Finite Element Analysis", "Product Design"],
+                "experience": "3-7 years",
+                "academics": "Bachelor's or Master's in Mechanical Engineering or related field",
+                "expected_package": "$80,000 - $110,000"
+              },
+              {
+                "title": "Electrical Engineer",
+                "skills": ["PCB Design", "Embedded Systems", "Power Systems"],
+                "experience": "4-8 years",
+                "academics": "Bachelor's or Master's in Electrical Engineering or related field",
+                "expected_package": "$90,000 - $120,000"
+              }
+            ]
+          },
+          {
+            "name": "GreenTech Innovations",
+            "jobs": [
+              {
+                "title": "Environmental Engineer",
+                "skills": ["Environmental Impact Assessment", "Waste Management", "Sustainability"],
+                "experience": "5-10 years",
+                "academics": "Bachelor's or Master's in Environmental Engineering, Civil Engineering, or related field",
+                "expected_package": "$100,000 - $130,000"
+              },
+              {
+                "title": "AI Engineer (Robotics)",
+                "skills": ["Robotics Programming", "Computer Vision", "Machine Learning"],
+                "experience": "3-7 years",
+                "academics": "Bachelor's or Master's in Robotics, Computer Science, or related field",
+                "expected_package": "$90,000 - $120,000"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "field": "Sales",
+        "companies": [
+          {
+            "name": "Global Sales Solutions",
+            "jobs": [
+              {
+                "title": "Sales Representative",
+                "skills": ["Client Relationship Management", "Negotiation", "Sales Strategy"],
+                "experience": "1-3 years",
+                "academics": "Bachelor's in Business Administration, Marketing, or related field",
+                "expected_package": "$50,000 - $70,000"
+              },
+              {
+                "title": "Sales Manager",
+                "skills": ["Sales Team Leadership", "Revenue Forecasting", "Market Analysis"],
+                "experience": "5-8 years",
+                "academics": "Bachelor's or Master's in Business Administration (MBA preferred)",
+                "expected_package": "$90,000 - $120,000"
+              }
+            ]
+          },
+          {
+            "name": "Tech Sales Inc.",
+            "jobs": [
+              {
+                "title": "Enterprise Sales Executive",
+                "skills": ["B2B Sales", "Solution Selling", "CRM Software"],
+                "experience": "3-7 years",
+                "academics": "Bachelor's in Business Administration, Sales, or related field",
+                "expected_package": "$80,000 - $110,000"
+              },
+              {
+                "title": "Sales Operations Analyst",
+                "skills": ["Salesforce Administration", "Data Analysis", "Sales Process Optimization"],
+                "experience": "2-5 years",
+                "academics": "Bachelor's in Business Analytics, Sales Operations, or related field",
+                "expected_package": "$60,000 - $80,000"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "field": "Operations",
+        "companies": [
+          {
+            "name": "Logistics Solutions Inc.",
+            "jobs": [
+              {
+                "title": "Supply Chain Manager",
+                "skills": ["Inventory Management", "Logistics Optimization", "Vendor Management"],
+                "experience": "5-10 years",
+                "academics": "Bachelor's or Master's in Supply Chain Management, Logistics, or related field",
+                "expected_package": "$100,000 - $140,000"
+              },
+              {
+                "title": "Operations Analyst",
+                "skills": ["Process Improvement", "Data Analytics", "Project Management"],
+                "experience": "2-5 years",
+                "academics": "Bachelor's in Business Administration, Operations Management, or related field",
+                "expected_package": "$70,000 - $90,000"
+              }
+            ]
+          },
+          {
+            "name": "Manufacturing Excellence Ltd.",
+            "jobs": [
+              {
+                "title": "Production Engineer",
+                "skills": ["Lean Manufacturing", "Six Sigma", "Quality Control"],
+                "experience": "3-7 years",
+                "academics": "Bachelor's or Master's in Industrial Engineering, Manufacturing Engineering, or related field",
+                "expected_package": "$80,000 - $110,000"
+              },
+              {
+                "title": "Plant Manager",
+                "skills": ["Operations Leadership", "Budget Planning", "Safety Management"],
+                "experience": "7-12 years",
+                "academics": "Bachelor's or Master's in Business Administration, Operations Management, or related field",
+                "expected_package": "$120,000 - $160,000"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "field": "Human Resources",
+        "companies": [
+          {
+            "name": "HR Solutions Group",
+            "jobs": [
+              {
+                "title": "HR Generalist",
+                "skills": ["Employee Relations", "Recruitment", "HR Policies"],
+                "experience": "2-5 years",
+                "academics": "Bachelor's in Human Resources Management, Psychology, or related field",
+                "expected_package": "$60,000 - $80,000"
+              },
+              {
+                "title": "Compensation and Benefits Manager",
+                "skills": ["Salary Benchmarking", "Employee Benefits Administration", "Compensation Analysis"],
+                "experience": "5-8 years",
+                "academics": "Bachelor's or Master's in Human Resources Management, Business Administration, or related field",
+                "expected_package": "$90,000 - $120,000"
+              }
+            ]
+          },
+          {
+            "name": "Talent Acquisition Experts",
+            "jobs": [
+              {
+                "title": "Recruitment Specialist",
+                "skills": ["Talent Sourcing", "Interviewing Techniques", "Candidate Assessment"],
+                "experience": "3-6 years",
+                "academics": "Bachelor's in Human Resources Management, Business Administration, or related field",
+                "expected_package": "$70,000 - $90,000"
+              },
+              {
+                "title": "Learning and Development Manager",
+                "skills": ["Training Needs Analysis", "Employee Development Programs", "Learning Management Systems"],
+                "experience": "5-8 years",
+                "academics": "Bachelor's or Master's in Organizational Psychology, Human Resources Development, or related field",
+                "expected_package": "$90,000 - $120,000"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+  
